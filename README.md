@@ -2,12 +2,14 @@
 Bash script for transforming .aax files to .mp3 files
 
 
-### HOW TO USE
+### HOW TO USE IT
 
 Run in terminal from the folder with .aax files with ./convert.sh
    
 ####################################
-### DETAILED INFO ABOUT CONVERSION 
+####################################
+####################################
+### DETAILED INFO ABOUT CONVERSION
 
 ### COMMAND FORM:
 ffmpeg -activation_bytes XXXX -i audiobook.aax audiobook.mp3
