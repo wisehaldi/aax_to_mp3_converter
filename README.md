@@ -4,11 +4,7 @@ Bash script for transforming .aax files to .mp3 files
 
 ### HOW TO USE - SIMPLE
 
-
-- Download into a folder with .aax files
-- Open folder in terminal.
-- "chmod +x convert.sh
-- ./convert.sh
+Run in terminal from the folder with .aax files with ./convert.sh
    
 #########################################################################################
 ### DETAILED INFO ABOUT CONVERSION 
