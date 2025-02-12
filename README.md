@@ -2,7 +2,7 @@
 Bash script for transforming .aax files to .mp3 files
 
 
-### HOW TO USE 
+### HOW TO USE - SIMPLE
 
 
 - Download into a folder with .aax files
