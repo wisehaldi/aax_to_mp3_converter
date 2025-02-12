@@ -15,13 +15,14 @@ Bash script for transforming .aax files to .mp3 files
 
 ### COMMAND FORM:
 ffmpeg -activation_bytes XXXX -i audiobook.aax audiobook.mp3
-https://kylepiira.com/2019/05/12/how-to-break-audible-drm/
+
+(More information on ffmpeg at https://kylepiira.com/2019/05/12/how-to-break-audible-drm/)
 
 ### ACTIVATION BYTES (activation key from Audible):
-#https://audible-tools.kamsker.at/f92933e43390a900b8889efeade94fe3f6cbff44
-#AAX Checksum Resolver: 
-#f92933e43390a900b8889efeade94fe3f6cbff44
-#92bcc42e
+(Get activation key at: https://audible-tools.kamsker.at/f92933e43390a900b8889efeade94fe3f6cbff44)
+
+AAX Checksum Resolver: f92933e43390a900b8889efeade94fe3f6cbff44
+activation_bytes: 92bcc42e
 
 ### COMMAND with activation bytes:
 #REPLACE XXXX = 92bcc42e
